@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "9fa6",
+      "name": "Radhe Vashist",
+      "email": "RADHEVASHIST0052@GMAIL.COM",
+      "phone": "9667902930",
+      "city": "Faridabad",
+      "state": "Haryana",
+      "zipCode": "121004",
+      "country": "India",
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "birthday": "2005-03-01",
+      "relationship": "me",
+      "notes": "",
+      "whatsapp": "https://wa.me/9667902930"
+    }
+  ]
+}
